@@ -6,10 +6,7 @@ RSpec.describe Product, type: :model do
       @category = Category.new(:name => 'Food')
       @product = Product.new(:name => 'balls', :price => 2000, :quantity => 32, :category => @category)
 
-      expect(@product.name).to be_present
-      expect(@product.price).to be_present
-      expect(@product.quantity).to be_present
-      expect(@product.category).to be_present
+      expect(@product).to be_valid
     end
 
     it 'should display an error message if name is nil' do
