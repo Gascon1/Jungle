@@ -4,7 +4,11 @@ RSpec.describe Product, type: :model do
   describe 'Validations' do
     it 'should have a name, price, quantity, and category' do
       @category = Category.new(:name => 'Food')
-      @product = Product.new(:name => 'balls', :price => 2000, :quantity => 32, :category => @category)
+      @product = Product.new(
+        :name => 'balls', 
+        :price => 2000, 
+        :quantity => 32, 
+        :category => @category)
 
       expect(@product).to be_valid
     end
