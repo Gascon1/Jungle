@@ -15,15 +15,15 @@ A mini e-commerce application built with Rails 4.2, using stripe verification AP
 
 ## Final Product
 
-!["Home page display & Add to cart and producgt details functionality"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/home_page.png?raw=true)
+!["Home page display & Add to cart and producgt details functionality"](https://raw.githubusercontent.com/Gascon1/Jungle/master/docs/home_page.png)
 
-!["Product page with item details"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/product_page.png?raw=true)
+!["Product page with item details"](https://raw.githubusercontent.com/Gascon1/Jungle/master/docs/product_page.png)
 
-!["My Cart page displaying items and total price, with payment functionality using the Stripe API"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/my_cart.png?raw=true)
+!["My Cart page displaying items and total price, with payment functionality using the Stripe API"](https://raw.githubusercontent.com/Gascon1/Jungle/master/docs/cart.png)
 
-!["Order receipt page displaying the item bought and total order price"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/order_receipt.png?raw=true)
+!["Order receipt page displaying the item bought and total order price"](https://raw.githubusercontent.com/Gascon1/Jungle/master/docs/order_receipt.png)
 
-!["Example of admin section where the admin can manage/add products"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/admin_product_section.png?raw=true)
+!["Example of admin section where the admin can manage/add products"](https://raw.githubusercontent.com/Gascon1/Jungle/master/docs/admin_product_section.png)
 
 ## Getting Started
 
